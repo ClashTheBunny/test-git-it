@@ -6,6 +6,8 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ClashTheBunny/test-git-it.svg)](https://greenkeeper.io/)
+
 
 Welcome to your Node.js project on Cloud9 IDE!
 
